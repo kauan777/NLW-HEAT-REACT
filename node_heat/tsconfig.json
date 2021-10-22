@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    
+    /* Language and Environment */
+    "target": "es5",                                     
+    "module": "commonjs",                                
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,            
+    "strict": false,                                      
+    "skipLibCheck": true,
+    "typeRoots": ["./src/@types", "node_modules/@types"]                            
+  }
+}
